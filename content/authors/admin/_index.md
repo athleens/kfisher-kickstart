@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Kathleen Fisher
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,29 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor and Department Chair
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Tufts University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include domain-specific programming languages, program synthesis, high-assurance software,  programming language support for ad hoc data management, parsing, and type systems.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Programming Languages
+- Program Synthesis
+- Programming support for ad hoc data management
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
+  - course: PhD in Computer Science
     institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    year: 1996
+  - course: BSc in Math and Computational Science
+    institution: Stanford University
+    year: 1991
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,13 +41,14 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  #link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  mailto:kfisher@cs.tufts.edu
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/fisherkathleen4
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=8mi-oYYAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
