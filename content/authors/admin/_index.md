@@ -14,7 +14,7 @@ role: Professor and Department Chair
 
 # Organizations/Affiliations
 organizations:
-- name: Tufts University
+- name: Tufts University, Department of Computer Science
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
