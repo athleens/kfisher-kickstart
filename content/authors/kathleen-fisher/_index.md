@@ -6,7 +6,7 @@ bio: My research interests include domain-specific programming languages,
   program synthesis, high-assurance software,  programming language support for
   ad hoc data management, parsing, and type systems.
 interests:
-  - "- Programming Languages"
+  - Programming Languages
   - Program Synthesis
   - Programming support for ad hoc data management
 superuser: true
